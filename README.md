@@ -20,7 +20,7 @@ scikit-learn
 
 **Results:**
 
-1.Key insights were derived from the dataset through EDA
+1.Key insights were derived from the dataset through EDA 
 2.Machine learning models were trained and evaluated
 3.The best-performing model achieved promising accuracy and balanced performance metrics
 
